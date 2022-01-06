@@ -43,7 +43,7 @@ Deployed Page: https://svnday.github.io/whats_in_your_pantry/
 
 ## Contributors:
 
-Brenda Salinas: https://github.com/Brendasalinasv21
+Brenda Salinas: https://github.com/Brendasalinas
 
 Xavyr Rodriguez: https://github.com/Exlautis
 
